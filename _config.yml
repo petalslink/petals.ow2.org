@@ -9,3 +9,4 @@ syntax_highlighter: rouge
 safe: true
 lsi: false
 permalink: /404.html
+exclude: ['README.md']

@@ -1,4 +1,4 @@
-# Petals ESB's Web Site @ OW2
+# Petals ESB's web site @ OW2
 
 [![License](https://img.shields.io/badge/license-Creative%20Commons-blue.svg)](http://creativecommons.org/licenses/by/3.0/)
 [![Web site](https://img.shields.io/badge/website-petals.ow2.org-712e7f.svg)](http://petals.ow2.org)
